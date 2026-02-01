@@ -84,7 +84,7 @@ Sometimes clean-up isn't just about missing values. Sometimes the data itself is
 
 Before class, please ensure you have the following ready:
 
-1. **Environment:** A working installation of Python (Anaconda recommended) or access to Google Colab.  
+1. **Environment:** We will use the `pds` environment.  
 2. **Libraries:** Ensure pandas and numpy are installed (pip install pandas numpy).  
 3. **Mindset:** Be ready to look at "ugly" data and make decisions on how to fix it\!
 
